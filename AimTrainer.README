@@ -1,11 +1,12 @@
 Name: Aim Trainer: 
 Description: This program is a small shooting game that helps playrs aim more accurately in FPS games.
 
-Instruction: 
-1. Download the executable file from git hub, and just simply double click the .exe file to run the program.
-2. Run the AimTrainer.py using python 3.9 IDE, make sure all of the images and imageprocessing.py also included
+Instruction (how to run): 
+Method 1. Download and extract the zip file from git hub, and run .exe file to open the program.
+Method 2. Run the AimTrainer.py using python 3.9 IDE, make sure all of the images and imageprocessing.py also included
 in the same directory.
 
+Program Description:
 The player can choose between EASY and HARD game modes on the Aim Trainer lobby page before the game begins; 
 if the mode is not selected, the default mode setting will be used.
 
